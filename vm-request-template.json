@@ -1,10 +1,10 @@
 {
     "_comment": "name mandatory, all the rest optional fields",
-    "name": "<VMName>", 
-    "template": "<VMTemplate>", 
-    "dc": "<DataCenter>", 
-    "resourcepool": "<ResourcePool>",
-    "vmfolder": "<vmfolder>",
-    "targethost": "<ESXiHost>",
-    "powerOn": false
+    "name": "", 
+    "template": "", 
+    "dc": "", 
+    "resourcepool": "",
+    "vmfolder": "",
+    "targethost": "",
+    "poweron": false
 }
