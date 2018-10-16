@@ -1,7 +1,7 @@
 {
     "_comment": "name mandatory, all the rest optional fields",
     "name": "vm-19", 
-    "template": "windows-2016-template-agent",
+    "template": "windows2016-template-agent",
     "dc": "PKS", 
     "resourcepool": "Cloud",
     "vmfolder": "production",
