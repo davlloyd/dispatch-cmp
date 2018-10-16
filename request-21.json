@@ -1,6 +1,6 @@
 {
     "_comment": "name mandatory, all the rest optional fields",
-    "name": "vm-18", 
+    "name": "vm-21", 
     "template": "windows2016-template-agent",
     "dc": "PKS", 
     "resourcepool": "Cloud",
