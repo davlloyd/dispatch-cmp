@@ -1,0 +1,9 @@
+{
+    "_comment": "name mandatory, all the rest optional fields",
+    "name": "vm-24", 
+    "template": "windows2016-template-agent",
+    "dc": "PKS", 
+    "resourcepool": "Cloud",
+    "vmfolder": "production",
+    "poweron": true
+}
